@@ -221,3 +221,10 @@ nav a:link {
 #box10 {
     background-color: dodgerblue;
 }
+
+/* ----- ABOUT PAGE ------*/
+
+.img-parent-container {
+    display: flex;
+    flex-wrap: wrap;
+}
