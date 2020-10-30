@@ -148,9 +148,13 @@ footer nav a {
 /* ------- Header ----- */
 
 header {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.header {
     display: flex;
     justify-content: space-between;
-    margin-top: 5%;
     margin-bottom: 5%;
 }
 
