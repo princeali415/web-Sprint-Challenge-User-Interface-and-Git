@@ -224,7 +224,11 @@ nav a:link {
 
 /* ----- ABOUT PAGE ------*/
 
-.img-parent-container {
+.img-parent-container{
     display: flex;
     flex-wrap: wrap;
+}
+
+.about-container {
+    width: 30vw;
 }
