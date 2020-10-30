@@ -230,5 +230,15 @@ nav a:link {
 }
 
 .about-container {
-    width: 30vw;
+    width: min-content;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+    border-bottom: 2px dotted black;
+    margin: 1%;
+}
+
+div .about-section {
+    margin-bottom: 4%;
+    border-bottom: 2px dotted;
+    padding-bottom: 4%;
 }
