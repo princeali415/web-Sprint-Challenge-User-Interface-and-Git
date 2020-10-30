@@ -144,3 +144,24 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* ------- Header ----- */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+nav {
+    display: contents;
+}
+
+nav a {
+    margin-top: 3%;
+}
+
+.lamda-img-container {
+    margin-bottom: 3%;
+}
