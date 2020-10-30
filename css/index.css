@@ -160,8 +160,18 @@ nav {
 
 nav a {
     margin-top: 3%;
+    color: black;
+    fon
 }
 
 .lamda-img-container {
     margin-bottom: 3%;
+}
+
+div.jumbo-img {
+    padding-bottom: 5%;
+}
+
+nav a:link {
+    text-decoration: none;
 }
